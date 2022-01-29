@@ -1,0 +1,7 @@
+name: FuckTheServer
+version: '${project.version}'
+main: fucktheserver.fucktheserver.FuckTheServer
+api-version: 1.13
+author: FUCK-1145141919810-FUCK
+commands:
+  FuckTheServer1145141919810:
